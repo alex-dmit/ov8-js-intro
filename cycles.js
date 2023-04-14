@@ -3,7 +3,7 @@ let counter = 0
 // while loop
 while (counter < 10) {
     console.log(counter);
-    // counter++
+    counter++
 }
 // For loop
 for (let i = 0; i < 10; i++) {
